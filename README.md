@@ -1,3 +1,3 @@
-# web-development
+# Tindog
 
-web development projects from 2022 web development bootcamp
+Tindog project from 2022 web development bootcamp
